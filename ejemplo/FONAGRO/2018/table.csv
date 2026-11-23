@@ -1,0 +1,19 @@
+﻿Fuente: SENAMHI / DRD * Datos sin control de calidad. * El uso de estos datos será de entera responsabilidad del usuario.,Leyenda: * S/D = Sin Datos. * T = Trazas (Precipitación < 0.1 mm/día).
+Estación : FONAGRO (CHINCHA)
+Departamento :,ICA,Provincia :,CHINCHA,Distrito :,CHINCHA BAJA
+Latitud :,13°27'33.67'',Longitud :,76°9'8.75'',Altitud :,47 msnm.
+Tipo :,MAP - Meteorológica,Código :,000791
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2018-09-17,21.4,14,S/D,T
+2018-09-18,22.1,14.8,S/D,T
+2018-09-19,21.5,14,S/D,0.8
+2018-09-20,19.8,14,S/D,0.7
+2018-09-21,21.4,15.8,S/D,0.0
+2018-09-22,22.2,15.2,S/D,0.0
+2018-09-23,22.8,15.4,S/D,0.0
+2018-09-24,21.5,16,S/D,0.0
+2018-09-25,22.2,15.5,S/D,0.0
+2018-09-26,21.7,16,S/D,0.0
+2018-09-27,22.9,16,S/D,0.0
+2018-10-01,22.2,13.5,82.5,0.0
